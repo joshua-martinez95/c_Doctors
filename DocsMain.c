@@ -4,7 +4,6 @@
 #include <string.h>
 #include <ctype.h>
 #include <stdbool.h>
-#
 
 //Don't forget to put in verification for a loop to ask when done with program.
 
